@@ -1,0 +1,73 @@
+about:
+  description: A Spell Checker for Code!
+  license: MIT
+  homepage: https://cspell.org
+  head: 3f365ad
+  archived: false
+  latestVersion: v10.2.0
+  collectedAt: 2026-09-02T04:06:00Z
+timeline:
+  created: 2017-01-15
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-31
+popularity:
+  star: 1682
+  watcher: 11
+  fork: 125
+  release: 248
+  contributor: 86
+  pullRequest: 1909
+  issue: 497
+language:
+  TypeScript: 4822972
+  C++: 552959
+  TeX: 112747
+  JavaScript: 95959
+  MDX: 37697
+  SCSS: 17196
+  PowerShell: 11060
+  Haskell: 8727
+  Python: 7729
+  C: 6234
+  Ruby: 1349
+  CSS: 1066
+  Svelte: 1046
+  Shell: 972
+  Go: 880
+  HTML: 468
+  R: 464
+  C#: 439
+totalLine: 5679964
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 11
+    mergedPR: 143
+    openPR: 8
+    closedIssue: 1
+    openIssue: 1
+    commit: 173
+  last90d:
+    since: 2026-06-04
+    release: 11
+    mergedPR: 193
+    openPR: 8
+    closedIssue: 5
+    openIssue: 2
+    commit: 214
+  last180d:
+    since: 2026-03-06
+    release: 14
+    mergedPR: 344
+    openPR: 8
+    closedIssue: 7
+    openIssue: 3
+    commit: 368
+  last360d:
+    since: 2025-09-07
+    release: 26
+    mergedPR: 1045
+    openPR: 8
+    closedIssue: 24
+    openIssue: 9
+    commit: 1080
