@@ -7,7 +7,7 @@ about:
   head: 3929707
   archived: false
   latestVersion: v10.3.0-alpha.0
-  collectedAt: 2026-09-04T19:21:48Z
+  collectedAt: 2026-09-04T21:18:37Z
 timeline:
   created: 2017-01-15
   lastCommit: 2026-09-04
@@ -48,7 +48,7 @@ recent:
     openPR: 6
     closedIssue: 3
     openIssue: 1
-    commit: 0
+    commit: 215
   last60d:
     since: 2026-07-06
     release: 14
@@ -56,7 +56,7 @@ recent:
     openPR: 6
     closedIssue: 5
     openIssue: 1
-    commit: 0
+    commit: 223
   last90d:
     since: 2026-06-06
     release: 14
@@ -64,7 +64,7 @@ recent:
     openPR: 6
     closedIssue: 7
     openIssue: 2
-    commit: 0
+    commit: 256
   last180d:
     since: 2026-03-08
     release: 17
@@ -72,7 +72,7 @@ recent:
     openPR: 6
     closedIssue: 9
     openIssue: 3
-    commit: 0
+    commit: 410
   last360d:
     since: 2025-09-09
     release: 29
@@ -80,7 +80,7 @@ recent:
     openPR: 6
     closedIssue: 26
     openIssue: 9
-    commit: 0
+    commit: 1122
   last720d:
     since: 2024-09-14
     release: 65
@@ -97,6 +97,134 @@ total:
   openIssue: 108
   commit: 7878
 ---
+path: /home/runner/.x-repo/github.com/streetsidesoftware/cspell
+collectedAt: 2026-09-04T21:19:07Z
+loc:
+  Yaml:
+    code: 150723
+    comments: 80
+    blanks: 1879
+    files: 138
+  TypeScript:
+    code: 93293
+    comments: 12201
+    blanks: 14317
+    files: 1309
+  Json:
+    code: 17118
+    comments: 0
+    blanks: 1
+    files: 326
+  CppHeader:
+    code: 9842
+    comments: 38
+    blanks: 2
+    files: 1
+  JavaScript:
+    code: 2733
+    comments: 284
+    blanks: 464
+    files: 160
+  Tex:
+    code: 922
+    comments: 263
+    blanks: 405
+    files: 12
+  Sass:
+    code: 670
+    comments: 3
+    blanks: 113
+    files: 6
+  Tsx:
+    code: 473
+    comments: 8
+    blanks: 59
+    files: 11
+  Svg:
+    code: 445
+    comments: 0
+    blanks: 1
+    files: 15
+  Python:
+    code: 265
+    comments: 9
+    blanks: 44
+    files: 3
+  PowerShell:
+    code: 219
+    comments: 48
+    blanks: 17
+    files: 3
+  C:
+    code: 205
+    comments: 74
+    blanks: 47
+    files: 4
+  Go:
+    code: 64
+    comments: 2
+    blanks: 20
+    files: 2
+  Css:
+    code: 35
+    comments: 5
+    blanks: 6
+    files: 1
+  Svelte:
+    code: 33
+    comments: 0
+    blanks: 7
+    files: 1
+  Haskell:
+    code: 20
+    comments: 13
+    blanks: 13
+    files: 1
+  Jsx:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 2
+  R:
+    code: 19
+    comments: 4
+    blanks: 0
+    files: 1
+  Sh:
+    code: 17
+    comments: 6
+    blanks: 8
+    files: 4
+  Toml:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 1
+  CSharp:
+    code: 8
+    comments: 2
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 49849
+    blanks: 41006
+    files: 272
+  Text:
+    code: 0
+    comments: 185124
+    blanks: 585
+    files: 181
+total:
+  code: 277638
+  comments: 248166
+  blanks: 59039
+  files: 2456
 ---
 date: "2026-08-24"
 repo:
