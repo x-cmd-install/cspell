@@ -5,7 +5,7 @@ about:
   head: 2030b88
   archived: false
   latestVersion: "v10.3.0-alpha.0"
-  collectedAt: 2026-09-07T04:50:59Z
+  collectedAt: 2026-09-07T19:45:38Z
 timeline:
   created: 2017-01-15
   lastCommit: 2026-09-06
@@ -16,7 +16,7 @@ popularity:
   fork: 124
   release: 251
   contributor: 86
-  pullRequest: 8589
+  pullRequest: 8590
   issue: 499
 language:
   TypeScript: 4858946
@@ -43,7 +43,7 @@ recent:
     since: 2026-08-08
     release: 14
     mergedPR: 187
-    openPR: 5
+    openPR: 6
     closedIssue: 3
     openIssue: 1
     commit: 184
@@ -51,7 +51,7 @@ recent:
     since: 2026-07-09
     release: 14
     mergedPR: 204
-    openPR: 5
+    openPR: 6
     closedIssue: 5
     openIssue: 1
     commit: 221
@@ -59,7 +59,7 @@ recent:
     since: 2026-06-09
     release: 14
     mergedPR: 230
-    openPR: 5
+    openPR: 6
     closedIssue: 7
     openIssue: 2
     commit: 242
@@ -67,7 +67,7 @@ recent:
     since: 2026-03-11
     release: 17
     mergedPR: 376
-    openPR: 5
+    openPR: 6
     closedIssue: 9
     openIssue: 3
     commit: 386
@@ -75,7 +75,7 @@ recent:
     since: 2025-09-12
     release: 29
     mergedPR: 1085
-    openPR: 5
+    openPR: 6
     closedIssue: 25
     openIssue: 7
     commit: 1115
@@ -83,20 +83,20 @@ recent:
     since: 2024-09-17
     release: 65
     mergedPR: 2362
-    openPR: 5
+    openPR: 6
     closedIssue: 63
     openIssue: 25
     commit: 2492
 total:
   release: 251
   mergedPR: 6682
-  openPR: 5
+  openPR: 6
   closedIssue: 391
   openIssue: 108
   commit: 7881
 ---
 path: /home/runner/.x-repo/github.com/streetsidesoftware/cspell
-collectedAt: 2026-09-07T04:52:20Z
+collectedAt: 2026-09-07T19:46:51Z
 loc:
   Yaml:
     code: 150723
@@ -398,7 +398,7 @@ checks:
       - 'Warn: 19 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:52:24+00:00
+  collectedAt: 2026-09-07T19:46:53+00:00
   platform:
     darwin/arm64:
       name:  null
