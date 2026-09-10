@@ -7,7 +7,7 @@ about:
   latestVersion: "v10.3.0"
   latestRelease: "v10.3.0"
   latestPrerelease: "v10.3.0-alpha.0"
-  collectedAt: 2026-09-10T20:57:14Z
+  collectedAt: 2026-09-10T22:58:15Z
 timeline:
   created: 2017-01-15
   lastCommit: 2026-09-10
@@ -100,7 +100,7 @@ total:
   commit: 7890
 ---
 path: /home/runner/.x-repo/github.com/streetsidesoftware/cspell
-collectedAt: 2026-09-10T20:58:23Z
+collectedAt: 2026-09-10T22:59:27Z
 loc:
   Yaml:
     code: 151478
