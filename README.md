@@ -4,7 +4,7 @@
 
 A Spell Checker for Code!
 
-![cspell](https://repo.x-cmd.io/cspell.svg)
+[![x-cmd/install — cspell Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cspell.svg)](https://x-cmd.com/install/cspell)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,684 · **Forks**: 124 · **Open issues**: 499 · **Contributors**: 86
+- **Stars**: 1,686 · **Forks**: 124 · **Open issues**: 499 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 6752 · **Open PRs**: 6 · **Closed issues**: 396 · **Open issues**: 103 · **Commits**: 7962
+- **Releases**: 259 · **Merged PRs**: 6752 · **Open PRs**: 7 · **Closed issues**: 396 · **Open issues**: 103 · **Commits**: 7962
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 22 | 219 | 6 | 4 | 0 | 244 |
-| last60d | 2026-07-20 | 22 | 263 | 6 | 5 | 0 | 302 |
-| 90d | 2026-06-20 | 22 | 287 | 6 | 6 | 1 | 318 |
-| last180d | 2026-03-22 | 25 | 420 | 6 | 10 | 2 | 442 |
-| 360d | 2025-09-23 | 37 | 1141 | 6 | 26 | 6 | 1189 |
-| last720d | 2024-09-28 | 71 | 2413 | 6 | 63 | 23 | 2545 |
+| 30d | 2026-08-21 | 22 | 204 | 7 | 4 | 0 | 244 |
+| last60d | 2026-07-22 | 22 | 262 | 7 | 5 | 0 | 302 |
+| 90d | 2026-06-22 | 22 | 285 | 7 | 6 | 1 | 318 |
+| last180d | 2026-03-24 | 25 | 401 | 7 | 9 | 2 | 442 |
+| 360d | 2025-09-25 | 37 | 1134 | 7 | 26 | 6 | 1189 |
+| last720d | 2024-09-30 | 71 | 2409 | 7 | 63 | 23 | 2542 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:16:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:14:35Z._
