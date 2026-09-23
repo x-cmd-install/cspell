@@ -4,7 +4,7 @@
 
 A Spell Checker for Code!
 
-[![x-cmd/install — cspell Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cspell.svg?lang=zh)](https://x-cmd.com/install/cspell)
+[![x-cmd/install — cspell Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cspell.svg?lang=zh)](https://x-cmd.com/install/cspell)
 
 ## 安装
 
@@ -14,12 +14,12 @@ x install cspell
 
 ## 代码洞察
 
-合计: **279,445** 行代码（覆盖前 5 种语言、共 **1937** 个文件）。
+合计: **279,452** 行代码（覆盖前 5 种语言、共 **1937** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Yaml | 152,122 | 80 | 1,930 | 138 |
-| TypeScript | 94,015 | 12,528 | 14,437 | 1314 |
+| TypeScript | 94,022 | 12,529 | 14,437 | 1314 |
 | Json | 17,378 | 0 | 1 | 326 |
 | CppHeader | 9,842 | 38 | 2 | 1 |
 | JavaScript | 2,650 | 258 | 443 | 158 |
@@ -30,7 +30,7 @@ x install cspell
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/18 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -43,7 +43,7 @@ x install cspell
 ## 发布
 
 - **最新版本**: `v10.3.4-alpha.0` (2026-09-16)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
@@ -51,18 +51,18 @@ x install cspell
 
 ## 累计统计
 
-- **发布数**: 259 · **已合并 PR**: 6761 · **开放 PR**: 7 · **已关闭 issue**: 396 · **开放 issue**: 103 · **提交数**: 7971
+- **发布数**: 259 · **已合并 PR**: 6763 · **开放 PR**: 6 · **已关闭 issue**: 396 · **开放 issue**: 103 · **提交数**: 7973
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 21 | 199 | 7 | 4 | 0 | 204 |
-| last60d | 2026-07-24 | 22 | 271 | 7 | 5 | 0 | 311 |
-| 90d | 2026-06-24 | 22 | 294 | 7 | 6 | 1 | 327 |
-| last180d | 2026-03-26 | 25 | 403 | 7 | 9 | 2 | 424 |
-| 360d | 2025-09-27 | 37 | 1139 | 7 | 26 | 6 | 1177 |
-| last720d | 2024-10-02 | 71 | 2406 | 7 | 63 | 23 | 2544 |
+| 30d | 2026-08-24 | 21 | 193 | 6 | 4 | 0 | 206 |
+| last60d | 2026-07-25 | 22 | 273 | 6 | 5 | 0 | 313 |
+| 90d | 2026-06-25 | 22 | 296 | 6 | 6 | 1 | 329 |
+| last180d | 2026-03-27 | 25 | 399 | 6 | 9 | 2 | 426 |
+| 360d | 2025-09-28 | 37 | 1141 | 6 | 26 | 6 | 1179 |
+| last720d | 2024-10-03 | 71 | 2408 | 6 | 62 | 23 | 2537 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ cspell 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:11:31Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:14:23Z._
