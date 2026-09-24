@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,685 · **Forks**: 124 · **Open issues**: 499 · **Contributors**: 86
+- **Stars**: 1,686 · **Forks**: 124 · **Open issues**: 499 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 21 | 193 | 6 | 4 | 0 | 206 |
-| last60d | 2026-07-25 | 22 | 273 | 6 | 5 | 0 | 313 |
-| 90d | 2026-06-25 | 22 | 296 | 6 | 6 | 1 | 329 |
-| last180d | 2026-03-27 | 25 | 399 | 6 | 9 | 2 | 426 |
-| 360d | 2025-09-28 | 37 | 1141 | 6 | 26 | 6 | 1179 |
-| last720d | 2024-10-03 | 71 | 2408 | 6 | 62 | 23 | 2537 |
+| 30d | 2026-08-25 | 21 | 191 | 6 | 4 | 0 | 206 |
+| last60d | 2026-07-26 | 22 | 273 | 6 | 5 | 0 | 313 |
+| 90d | 2026-06-26 | 22 | 295 | 6 | 6 | 1 | 329 |
+| last180d | 2026-03-28 | 25 | 399 | 6 | 9 | 2 | 426 |
+| 360d | 2025-09-29 | 37 | 1136 | 6 | 26 | 6 | 1179 |
+| last720d | 2024-10-04 | 71 | 2408 | 6 | 61 | 23 | 2537 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:14:22Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:58:57Z._
