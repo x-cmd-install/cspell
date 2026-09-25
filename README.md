@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v10.3.4-alpha.0` (2026-09-16)
-- **Last commit**: 2026-09-22
+- **Latest**: `v10.3.4` (2026-09-24)
+- **Last commit**: 2026-09-24
 
 ## Popularity
 
-- **Stars**: 1,686 · **Forks**: 124 · **Open issues**: 499 · **Contributors**: 86
+- **Stars**: 1,687 · **Forks**: 123 · **Open issues**: 499 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 6763 · **Open PRs**: 6 · **Closed issues**: 396 · **Open issues**: 103 · **Commits**: 7973
+- **Releases**: 260 · **Merged PRs**: 6765 · **Open PRs**: 6 · **Closed issues**: 396 · **Open issues**: 103 · **Commits**: 7976
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 21 | 191 | 6 | 4 | 0 | 206 |
-| last60d | 2026-07-26 | 22 | 273 | 6 | 5 | 0 | 313 |
-| 90d | 2026-06-26 | 22 | 295 | 6 | 6 | 1 | 329 |
-| last180d | 2026-03-28 | 25 | 399 | 6 | 9 | 2 | 426 |
-| 360d | 2025-09-29 | 37 | 1136 | 6 | 26 | 6 | 1179 |
-| last720d | 2024-10-04 | 71 | 2408 | 6 | 61 | 23 | 2537 |
+| 30d | 2026-08-26 | 21 | 185 | 6 | 4 | 0 | 209 |
+| last60d | 2026-07-27 | 23 | 275 | 6 | 5 | 0 | 316 |
+| 90d | 2026-06-27 | 23 | 297 | 6 | 6 | 1 | 332 |
+| last180d | 2026-03-29 | 26 | 400 | 6 | 9 | 2 | 429 |
+| 360d | 2025-09-30 | 38 | 1138 | 6 | 26 | 6 | 1182 |
+| last720d | 2024-10-05 | 72 | 2396 | 6 | 61 | 23 | 2540 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:58:57Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:11:48Z._
