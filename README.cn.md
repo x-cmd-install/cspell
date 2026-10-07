@@ -26,11 +26,11 @@ x install cspell
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **5.6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/17 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -57,12 +57,12 @@ x install cspell
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 13 | 181 | 10 | 3 | 16 | 190 |
-| last60d | 2026-08-07 | 27 | 371 | 12 | 7 | 16 | 383 |
-| 90d | 2026-07-08 | 27 | 389 | 12 | 9 | 16 | 425 |
-| last180d | 2026-04-09 | 28 | 473 | 12 | 11 | 18 | 508 |
-| 360d | 2025-10-11 | 42 | 1226 | 12 | 28 | 22 | 1279 |
-| last720d | 2024-10-16 | 73 | 2450 | 12 | 62 | 36 | 2587 |
+| 30d | 2026-09-07 | 13 | 180 | 10 | 3 | 16 | 190 |
+| last60d | 2026-08-08 | 27 | 371 | 12 | 7 | 16 | 383 |
+| 90d | 2026-07-09 | 27 | 388 | 12 | 9 | 16 | 425 |
+| last180d | 2026-04-10 | 28 | 473 | 12 | 11 | 18 | 508 |
+| 360d | 2025-10-12 | 42 | 1226 | 12 | 28 | 22 | 1279 |
+| last720d | 2024-10-17 | 72 | 2446 | 12 | 62 | 36 | 2579 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ cspell 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T06:39:50Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:06:14Z._
