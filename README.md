@@ -19,7 +19,7 @@ Total: **280,244** lines of code across **1954** files in the top 5 languages.
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 150,609 | 81 | 4,786 | 139 |
-| TypeScript | 96,216 | 12,828 | 14,657 | 1323 |
+| TypeScript | 96,216 | 12,829 | 14,657 | 1323 |
 | Json | 17,473 | 0 | 1 | 333 |
 | CppHeader | 9,842 | 38 | 2 | 1 |
 | JavaScript | 2,666 | 269 | 440 | 158 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.4.0` (2026-10-14)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 265 · **Merged PRs**: 6915 · **Open PRs**: 7 · **Closed issues**: 402 · **Open issues**: 128 · **Commits**: 8131
+- **Releases**: 265 · **Merged PRs**: 6916 · **Open PRs**: 12 · **Closed issues**: 402 · **Open issues**: 128 · **Commits**: 8132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 9 | 170 | 5 | 3 | 28 | 168 |
-| last60d | 2026-08-16 | 28 | 391 | 7 | 7 | 28 | 433 |
-| 90d | 2026-07-17 | 28 | 428 | 7 | 8 | 28 | 470 |
-| last180d | 2026-04-18 | 29 | 520 | 7 | 11 | 29 | 557 |
-| 360d | 2025-10-20 | 43 | 1265 | 7 | 27 | 34 | 1304 |
-| last720d | 2024-10-25 | 72 | 2468 | 7 | 62 | 47 | 2598 |
+| 30d | 2026-09-16 | 8 | 168 | 10 | 3 | 28 | 169 |
+| last60d | 2026-08-17 | 28 | 391 | 12 | 7 | 28 | 434 |
+| 90d | 2026-07-18 | 28 | 429 | 12 | 8 | 28 | 471 |
+| last180d | 2026-04-19 | 29 | 521 | 12 | 11 | 29 | 558 |
+| 360d | 2025-10-21 | 43 | 1262 | 12 | 27 | 34 | 1305 |
+| last720d | 2024-10-26 | 72 | 2464 | 12 | 62 | 47 | 2599 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:46:07Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:45:09Z._
