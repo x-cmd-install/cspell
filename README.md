@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,698 · **Forks**: 127 · **Open issues**: 530 · **Contributors**: 87
+- **Stars**: 1,699 · **Forks**: 127 · **Open issues**: 530 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 265 · **Merged PRs**: 6916 · **Open PRs**: 12 · **Closed issues**: 402 · **Open issues**: 128 · **Commits**: 8132
+- **Releases**: 265 · **Merged PRs**: 6916 · **Open PRs**: 13 · **Closed issues**: 402 · **Open issues**: 128 · **Commits**: 8132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 8 | 168 | 10 | 3 | 28 | 169 |
-| last60d | 2026-08-17 | 28 | 391 | 12 | 7 | 28 | 434 |
-| 90d | 2026-07-18 | 28 | 429 | 12 | 8 | 28 | 471 |
-| last180d | 2026-04-19 | 29 | 521 | 12 | 11 | 29 | 558 |
-| 360d | 2025-10-21 | 43 | 1262 | 12 | 27 | 34 | 1305 |
-| last720d | 2024-10-26 | 72 | 2464 | 12 | 62 | 47 | 2599 |
+| 30d | 2026-09-17 | 7 | 160 | 11 | 3 | 28 | 169 |
+| last60d | 2026-08-18 | 28 | 389 | 13 | 7 | 28 | 434 |
+| 90d | 2026-07-19 | 28 | 428 | 13 | 8 | 28 | 471 |
+| last180d | 2026-04-20 | 29 | 520 | 13 | 11 | 29 | 558 |
+| 360d | 2025-10-22 | 43 | 1256 | 13 | 27 | 34 | 1305 |
+| last720d | 2024-10-27 | 72 | 2458 | 13 | 62 | 47 | 2592 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:45:09Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:34:03Z._
