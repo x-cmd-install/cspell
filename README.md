@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 7 | 160 | 11 | 3 | 28 | 169 |
-| last60d | 2026-08-18 | 28 | 389 | 13 | 7 | 28 | 434 |
-| 90d | 2026-07-19 | 28 | 428 | 13 | 8 | 28 | 471 |
-| last180d | 2026-04-20 | 29 | 520 | 13 | 11 | 29 | 558 |
-| 360d | 2025-10-22 | 43 | 1256 | 13 | 27 | 34 | 1305 |
-| last720d | 2024-10-27 | 72 | 2458 | 13 | 62 | 47 | 2592 |
+| 30d | 2026-09-18 | 6 | 159 | 11 | 3 | 28 | 169 |
+| last60d | 2026-08-19 | 28 | 383 | 13 | 7 | 28 | 434 |
+| 90d | 2026-07-20 | 28 | 427 | 13 | 8 | 28 | 471 |
+| last180d | 2026-04-21 | 29 | 520 | 13 | 11 | 29 | 558 |
+| 360d | 2025-10-23 | 42 | 1255 | 13 | 27 | 34 | 1305 |
+| last720d | 2024-10-28 | 72 | 2456 | 13 | 62 | 47 | 2585 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:34:03Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:39:17Z._
