@@ -14,12 +14,12 @@ x install cspell
 
 ## Code insight
 
-Total: **281,100** lines of code across **1954** files in the top 5 languages.
+Total: **281,147** lines of code across **1954** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 151,465 | 81 | 4,810 | 139 |
-| TypeScript | 96,216 | 12,829 | 14,657 | 1323 |
+| TypeScript | 96,263 | 12,837 | 14,665 | 1323 |
 | Json | 17,473 | 0 | 1 | 333 |
 | CppHeader | 9,842 | 38 | 2 | 1 |
 | JavaScript | 2,666 | 269 | 440 | 158 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.4.0` (2026-10-14)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 265 · **Merged PRs**: 6926 · **Open PRs**: 11 · **Closed issues**: 402 · **Open issues**: 131 · **Commits**: 8142
+- **Releases**: 265 · **Merged PRs**: 6931 · **Open PRs**: 9 · **Closed issues**: 402 · **Open issues**: 131 · **Commits**: 8147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 6 | 161 | 9 | 3 | 31 | 165 |
-| last60d | 2026-08-22 | 28 | 369 | 11 | 7 | 31 | 386 |
-| 90d | 2026-07-23 | 28 | 436 | 11 | 8 | 31 | 481 |
-| last180d | 2026-04-24 | 29 | 529 | 11 | 11 | 32 | 567 |
-| 360d | 2025-10-26 | 42 | 1257 | 11 | 27 | 37 | 1307 |
-| last720d | 2024-10-31 | 71 | 2460 | 11 | 62 | 50 | 2586 |
+| 30d | 2026-09-22 | 6 | 165 | 7 | 3 | 31 | 170 |
+| last60d | 2026-08-23 | 27 | 369 | 9 | 7 | 31 | 391 |
+| 90d | 2026-07-24 | 28 | 441 | 9 | 8 | 31 | 486 |
+| last180d | 2026-04-25 | 29 | 534 | 9 | 11 | 32 | 572 |
+| 360d | 2025-10-27 | 42 | 1257 | 9 | 27 | 37 | 1312 |
+| last720d | 2024-11-01 | 71 | 2465 | 9 | 61 | 50 | 2591 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:55:37Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:55:12Z._
