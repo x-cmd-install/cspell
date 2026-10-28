@@ -30,9 +30,9 @@ Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,700 · **Forks**: 127 · **Open issues**: 534 · **Contributors**: 88
+- **Stars**: 1,701 · **Forks**: 127 · **Open issues**: 534 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 5 | 161 | 5 | 3 | 25 | 87 |
-| last60d | 2026-08-28 | 26 | 340 | 7 | 8 | 30 | 327 |
-| 90d | 2026-07-29 | 28 | 458 | 7 | 10 | 30 | 500 |
-| last180d | 2026-04-30 | 29 | 550 | 7 | 13 | 31 | 586 |
-| 360d | 2025-11-01 | 42 | 1270 | 7 | 29 | 36 | 1309 |
-| last720d | 2024-11-06 | 69 | 2431 | 7 | 62 | 47 | 2563 |
+| 30d | 2026-09-28 | 4 | 147 | 5 | 3 | 22 | 87 |
+| last60d | 2026-08-29 | 23 | 336 | 7 | 7 | 30 | 327 |
+| 90d | 2026-07-30 | 28 | 456 | 7 | 10 | 30 | 500 |
+| last180d | 2026-05-01 | 29 | 550 | 7 | 13 | 31 | 586 |
+| 360d | 2025-11-02 | 42 | 1269 | 7 | 29 | 36 | 1309 |
+| last720d | 2024-11-07 | 69 | 2426 | 7 | 62 | 47 | 2556 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:21:45Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:51:57Z._
