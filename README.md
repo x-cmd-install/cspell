@@ -14,13 +14,13 @@ x install cspell
 
 ## Code insight
 
-Total: **284,751** lines of code across **1953** files in the top 5 languages.
+Total: **284,769** lines of code across **1953** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 153,077 | 81 | 4,584 | 140 |
-| TypeScript | 96,607 | 12,619 | 14,706 | 1320 |
-| Json | 19,121 | 0 | 1 | 334 |
+| Yaml | 153,067 | 81 | 4,582 | 140 |
+| TypeScript | 96,627 | 12,620 | 14,707 | 1320 |
+| Json | 19,129 | 0 | 1 | 334 |
 | CppHeader | 9,842 | 38 | 2 | 1 |
 | JavaScript | 2,666 | 269 | 440 | 158 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.4.1` (2026-11-06)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 
 ## Popularity
 
-- **Stars**: 1,706 · **Forks**: 130 · **Open issues**: 536 · **Contributors**: 90
+- **Stars**: 1,706 · **Forks**: 130 · **Open issues**: 537 · **Contributors**: 92
 
 ## Totals (cumulative)
 
-- **Releases**: 266 · **Merged PRs**: 7010 · **Open PRs**: 10 · **Closed issues**: 406 · **Open issues**: 130 · **Commits**: 8226
+- **Releases**: 266 · **Merged PRs**: 7021 · **Open PRs**: 6 · **Closed issues**: 408 · **Open issues**: 129 · **Commits**: 8237
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 111 | 8 | 3 | 8 | 93 |
-| last60d | 2026-09-12 | 14 | 288 | 8 | 7 | 30 | 274 |
-| 90d | 2026-08-13 | 29 | 487 | 10 | 11 | 30 | 527 |
-| last180d | 2026-05-15 | 30 | 607 | 10 | 15 | 31 | 646 |
-| 360d | 2025-11-16 | 40 | 1275 | 10 | 28 | 35 | 1308 |
-| last720d | 2024-11-21 | 69 | 2443 | 10 | 64 | 47 | 2569 |
+| 30d | 2026-10-13 | 2 | 111 | 4 | 5 | 4 | 104 |
+| last60d | 2026-09-13 | 12 | 288 | 4 | 9 | 29 | 285 |
+| 90d | 2026-08-14 | 29 | 498 | 6 | 13 | 29 | 538 |
+| last180d | 2026-05-16 | 30 | 618 | 6 | 17 | 30 | 657 |
+| 360d | 2025-11-17 | 40 | 1279 | 6 | 30 | 34 | 1319 |
+| last720d | 2024-11-22 | 69 | 2451 | 6 | 65 | 46 | 2580 |
 
 ## Distribution status
 
@@ -71,7 +71,7 @@ Reported by **4** distros on [repology.org](https://repology.org/project/cspell)
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `10.4.1` | ✅ latest |
-| Nix unstable | `9.7.0` | ⚠️ outdated |
+| Nix unstable | `10.4.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:29:38Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:35:32Z._
