@@ -30,11 +30,11 @@
 - repo: nix_unstable
   srcname: cspell
   visiblename: cspell
-  version: 9.7.0
+  version: 10.4.0
   origversion: null
   status: outdated
   summary: Spell checker for code
   maintainers:
-    - fallback-mnt-nix@repology
+    - kamadorueda@gmail.com
   licenses:
     - MIT
