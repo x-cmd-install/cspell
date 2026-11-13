@@ -14,13 +14,13 @@ x install cspell
 
 ## Code insight
 
-Total: **284,769** lines of code across **1953** files in the top 5 languages.
+Total: **285,432** lines of code across **1964** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 153,067 | 81 | 4,582 | 140 |
-| TypeScript | 96,627 | 12,620 | 14,707 | 1320 |
-| Json | 19,129 | 0 | 1 | 334 |
+| Yaml | 153,095 | 81 | 4,582 | 145 |
+| TypeScript | 97,208 | 12,740 | 14,783 | 1326 |
+| Json | 19,183 | 0 | 1 | 334 |
 | CppHeader | 9,842 | 38 | 2 | 1 |
 | JavaScript | 2,666 | 269 | 440 | 158 |
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 266 · **Merged PRs**: 7021 · **Open PRs**: 6 · **Closed issues**: 408 · **Open issues**: 129 · **Commits**: 8237
+- **Releases**: 266 · **Merged PRs**: 7027 · **Open PRs**: 8 · **Closed issues**: 409 · **Open issues**: 128 · **Commits**: 8243
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 111 | 4 | 5 | 4 | 104 |
-| last60d | 2026-09-13 | 12 | 288 | 4 | 9 | 29 | 285 |
-| 90d | 2026-08-14 | 29 | 498 | 6 | 13 | 29 | 538 |
-| last180d | 2026-05-16 | 30 | 618 | 6 | 17 | 30 | 657 |
-| 360d | 2025-11-17 | 40 | 1279 | 6 | 30 | 34 | 1319 |
-| last720d | 2024-11-22 | 69 | 2451 | 6 | 65 | 46 | 2580 |
+| 30d | 2026-10-14 | 2 | 107 | 6 | 5 | 2 | 110 |
+| last60d | 2026-09-14 | 10 | 291 | 6 | 10 | 28 | 291 |
+| 90d | 2026-08-15 | 29 | 504 | 8 | 14 | 28 | 544 |
+| last180d | 2026-05-17 | 30 | 623 | 8 | 18 | 29 | 663 |
+| 360d | 2025-11-18 | 40 | 1285 | 8 | 31 | 33 | 1325 |
+| last720d | 2024-11-23 | 69 | 2454 | 8 | 65 | 45 | 2582 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:35:32Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:54:45Z._
