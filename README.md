@@ -14,13 +14,13 @@ x install cspell
 
 ## Code insight
 
-Total: **285,432** lines of code across **1964** files in the top 5 languages.
+Total: **285,851** lines of code across **1967** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 153,095 | 81 | 4,582 | 145 |
-| TypeScript | 97,208 | 12,740 | 14,783 | 1326 |
-| Json | 19,183 | 0 | 1 | 334 |
+| TypeScript | 97,607 | 12,956 | 14,837 | 1329 |
+| Json | 19,203 | 0 | 1 | 334 |
 | CppHeader | 9,842 | 38 | 2 | 1 |
 | JavaScript | 2,666 | 269 | 440 | 158 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v10.4.1` (2026-11-06)
-- **Last commit**: 2026-11-12
+- **Latest**: `v10.5.0` (2026-11-13)
+- **Last commit**: 2026-11-13
 
 ## Popularity
 
-- **Stars**: 1,706 · **Forks**: 130 · **Open issues**: 537 · **Contributors**: 92
+- **Stars**: 1,706 · **Forks**: 131 · **Open issues**: 539 · **Contributors**: 92
 
 ## Totals (cumulative)
 
-- **Releases**: 266 · **Merged PRs**: 7027 · **Open PRs**: 8 · **Closed issues**: 409 · **Open issues**: 128 · **Commits**: 8243
+- **Releases**: 267 · **Merged PRs**: 7040 · **Open PRs**: 10 · **Closed issues**: 410 · **Open issues**: 129 · **Commits**: 8257
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 107 | 6 | 5 | 2 | 110 |
-| last60d | 2026-09-14 | 10 | 291 | 6 | 10 | 28 | 291 |
-| 90d | 2026-08-15 | 29 | 504 | 8 | 14 | 28 | 544 |
-| last180d | 2026-05-17 | 30 | 623 | 8 | 18 | 29 | 663 |
-| 360d | 2025-11-18 | 40 | 1285 | 8 | 31 | 33 | 1325 |
-| last720d | 2024-11-23 | 69 | 2454 | 8 | 65 | 45 | 2582 |
+| 30d | 2026-10-15 | 2 | 116 | 8 | 6 | 3 | 124 |
+| last60d | 2026-09-15 | 11 | 295 | 8 | 11 | 29 | 305 |
+| 90d | 2026-08-16 | 30 | 516 | 10 | 15 | 29 | 558 |
+| last180d | 2026-05-18 | 31 | 636 | 10 | 19 | 30 | 677 |
+| 360d | 2025-11-19 | 41 | 1290 | 10 | 32 | 34 | 1339 |
+| last720d | 2024-11-24 | 70 | 2465 | 10 | 66 | 46 | 2591 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:54:45Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:37:20Z._
