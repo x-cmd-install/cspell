@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 268 · **Merged PRs**: 7057 · **Open PRs**: 7 · **Closed issues**: 411 · **Open issues**: 128 · **Commits**: 8275
+- **Releases**: 268 · **Merged PRs**: 7057 · **Open PRs**: 14 · **Closed issues**: 411 · **Open issues**: 128 · **Commits**: 8275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 3 | 133 | 5 | 7 | 2 | 142 |
-| last60d | 2026-09-16 | 11 | 309 | 5 | 12 | 28 | 323 |
-| 90d | 2026-08-17 | 31 | 532 | 7 | 16 | 28 | 576 |
-| last180d | 2026-05-19 | 32 | 650 | 7 | 20 | 29 | 695 |
-| 360d | 2025-11-20 | 42 | 1305 | 7 | 33 | 33 | 1357 |
-| last720d | 2024-11-25 | 71 | 2480 | 7 | 66 | 45 | 2609 |
+| 30d | 2026-10-17 | 3 | 132 | 12 | 7 | 2 | 124 |
+| last60d | 2026-09-17 | 10 | 301 | 12 | 12 | 28 | 300 |
+| 90d | 2026-08-18 | 31 | 530 | 14 | 16 | 28 | 531 |
+| last180d | 2026-05-20 | 32 | 650 | 14 | 20 | 29 | 671 |
+| 360d | 2025-11-21 | 42 | 1298 | 14 | 33 | 33 | 1332 |
+| last720d | 2024-11-26 | 71 | 2467 | 14 | 65 | 45 | 2608 |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **4** distros on [repology.org](https://repology.org/project/cspell)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `10.5.0` | ✅ latest |
+| Homebrew | `10.5.1` | ✅ latest |
 | Nix unstable | `10.4.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -82,4 +82,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:46:22Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:50:08Z._
