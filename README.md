@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v10.5.2` (2026-11-18)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 1,708 · **Forks**: 130 · **Open issues**: 541 · **Contributors**: 93
+- **Stars**: 1,709 · **Forks**: 130 · **Open issues**: 541 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 269 · **Merged PRs**: 7088 · **Open PRs**: 13 · **Closed issues**: 413 · **Open issues**: 128 · **Commits**: 8308
+- **Releases**: 269 · **Merged PRs**: 7091 · **Open PRs**: 14 · **Closed issues**: 413 · **Open issues**: 128 · **Commits**: 8311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 4 | 155 | 11 | 5 | 2 | 157 |
-| last60d | 2026-09-20 | 10 | 328 | 11 | 14 | 27 | 333 |
-| 90d | 2026-08-21 | 32 | 541 | 13 | 18 | 27 | 564 |
-| last180d | 2026-05-23 | 33 | 672 | 13 | 22 | 28 | 704 |
-| 360d | 2025-11-24 | 43 | 1315 | 13 | 35 | 32 | 1365 |
-| last720d | 2024-11-29 | 71 | 2485 | 13 | 67 | 44 | 2617 |
+| 30d | 2026-10-21 | 4 | 155 | 12 | 5 | 2 | 160 |
+| last60d | 2026-09-21 | 10 | 327 | 12 | 14 | 27 | 336 |
+| 90d | 2026-08-22 | 32 | 535 | 14 | 18 | 27 | 567 |
+| last180d | 2026-05-24 | 33 | 671 | 14 | 22 | 28 | 707 |
+| 360d | 2025-11-25 | 43 | 1318 | 14 | 35 | 32 | 1368 |
+| last720d | 2024-11-30 | 71 | 2488 | 14 | 67 | 44 | 2618 |
 
 ## Distribution status
 
@@ -70,8 +70,8 @@ Reported by **4** distros on [repology.org](https://repology.org/project/cspell)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `10.5.1` | ✅ latest |
-| Nix unstable | `10.4.0` | ⚠️ outdated |
+| Homebrew | `10.5.2` | ✅ latest |
+| Nix unstable | `10.5.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for cspell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:52:57Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:36:36Z._
