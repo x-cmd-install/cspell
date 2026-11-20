@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: cspell
   visiblename: cspell
-  version: 10.5.1
+  version: 10.5.2
   origversion: null
   status: newest
   summary: Spell checker for code
@@ -30,7 +30,7 @@
 - repo: nix_unstable
   srcname: cspell
   visiblename: cspell
-  version: 10.4.0
+  version: 10.5.1
   origversion: null
   status: outdated
   summary: Spell checker for code
